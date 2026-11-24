@@ -13,4 +13,4 @@ Presentation about a recent or ongoing current event related to artificial intel
   - Role: Research, Scripting, Presentation, Team coordination
 
 > YouTube link:
-
+w.i.p
